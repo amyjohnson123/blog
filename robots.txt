@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://amyjohnson123.github.io//github/sitemap.xml 
